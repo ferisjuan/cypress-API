@@ -1,0 +1,28 @@
+{
+  "name": "cypress-api",
+  "version": "1.0.0",
+  "description": "REST API testing with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferisjuan/cypress-API.git"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "Cypress"
+  ],
+  "author": "Juan Feris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ferisjuan/cypress-API/issues"
+  },
+  "homepage": "https://github.com/ferisjuan/cypress-API#readme",
+  "dependencies": {
+    "cypress": "^5.5.0",
+    "prettier": "^2.1.2"
+  }
+}
